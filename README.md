@@ -92,11 +92,12 @@ const tehzeeb = {
 
 | 🚀 Project | 📝 Description | 🛠️ Tech |
 |---|---|---|
-| [🤖 AI Resume Coach](https://github.com/tahzzzeebbb/ai-resume-coach) | AI-powered resume analyzer & interview simulator | React, Node.js, MongoDB, Gemini AI |
-| [🚌 Punjab Bus Connect](https://github.com/tahzzzeebbb/punjab-bus-connect) | Bilingual public transport app for CM Punjab | React.js |
-| [🧠 ADHD Knowledge Graph](https://github.com/tahzzzeebbb/ADHD-Knowledge-Graph) | AI-driven behavioral pattern insights | React, Neo4j, MongoDB |
-| [🌸 Blossom Flower Shop](https://github.com/tahzzzeebbb/Blossom-Bliss-Flower-Shop) | E-commerce app for local flower delivery | PHP, MySQL |
-| [🍦 Icylicious E-Commerce](https://github.com/tahzzzeebbb/Icylicious-Ice-Cream-E-commerce) | Full-stack ice cream shop with cart & orders | PHP, MySQL, JS |
+| **🧠 FocusFlow – AI-Powered ADHD Assessment & Management Platform**<br>🔗 **[GitHub](https://github.com/tahzzzeebbb/focusflow)** • 🌐 **[Live Demo](https://focusflow-delta-jet.vercel.app/)** | Full-stack healthcare platform powered by **2,000 real ADHD patient records**, featuring clinical analytics, Neo4j Knowledge Graph, interactive Cytoscape visualizations, AI-powered insights, symptom assessment, and personalized treatment exploration. | React, Node.js, MongoDB, Neo4j, Cytoscape.js, Vite |
+| [🤖 AI Resume Coach](https://github.com/tahzzzeebbb/ai-resume-coach) | AI-powered resume analyzer, ATS checker, interview simulator, and career assistant using Gemini AI. | React, Node.js, MongoDB, Gemini AI |
+| [🚌 Punjab Bus Connect](https://github.com/tahzzzeebbb/punjab-bus-connect) | Bilingual public transport application designed to improve route accessibility and commuting experience for Punjab citizens. | React.js |
+| [🧠 ADHD Knowledge Graph](https://github.com/tahzzzeebbb/ADHD-Knowledge-Graph) | Knowledge graph visualization platform for ADHD symptom analysis, relationship exploration, and clinical data insights. | React, Neo4j, MongoDB |
+| [🌸 Blossom Flower Shop](https://github.com/tahzzzeebbb/Blossom-Bliss-Flower-Shop) | Full-stack e-commerce platform with product management, shopping cart, and order processing for a flower delivery business. | PHP, MySQL |
+| [🍦 Icylicious E-Commerce](https://github.com/tahzzzeebbb/Icylicious-Ice-Cream-E-commerce) | Complete e-commerce solution featuring product catalog, shopping cart, user authentication, and order management. | PHP, MySQL, JavaScript |
 
 </div>
 
