@@ -24,7 +24,7 @@
 const tehzeeb = {
   🎓 education: "BS Software Engineering @ FJWU (2022-2026)",
   💻 role: "Full-Stack Web Developer",
-  🌍 location: "Rawalpindi, Pakistan",
+  🌍 location: "Islamabad, Pakistan",
   🔥 passion: "Building AI-powered apps",
   📚 learning: ["LangChain", "Agentic AI", "TypeScript"],
   🎧 currentSong: "lofi beats on repeat 🎶",
