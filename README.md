@@ -9,7 +9,7 @@ Software Engineering graduate from Fatima Jinnah Women University. I work on QA 
 - 🤖 Learning AI automation, LangChain and Agentic AI
 - 🍵 Fueled by chai
 
-#Skills
+# Skills
 
 - **QA:** Selenium, manual testing, test cases, Jira
 - **Frontend:** React, JavaScript, Tailwind CSS, HTML, CSS
