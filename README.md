@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Hi,%20I'm%20Tehzeeb%20🌸&fontSize=38&fontColor=fff)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=20&pause=1200&color=FF6EB4&center=true&vCenter=true&width=520&lines=QA+Automation+%F0%9F%A7%AA;AI+%26+IoT+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Code%2C+Chai%2C+Repeat+%F0%9F%8D%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=20&pause=1200&color=FF6EB4&center=true&vCenter=true&width=520&lines=QA+Automation)](https://git.io/typing-svg)
 
 Software Engineering graduate from Fatima Jinnah Women University.
 I work on QA automation, AI-powered apps, and full-stack web development.
