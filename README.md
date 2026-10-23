@@ -150,6 +150,6 @@ E-commerce site with auth and order management.
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer)
 
-<sub>made with chai, code & a little bit of chaos ✨</sub>
+<sub>made with chaos ✨</sub>
 
 </div>
